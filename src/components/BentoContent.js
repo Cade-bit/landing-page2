@@ -67,7 +67,7 @@ export const bentoContent2 = [
     title: 'Grow your customer base',
     value: 'grow',
     description: 'Introduce your business to new customers, and increase your customer network.',
-    imageSrc: 'https://tailwindcss.com/plus-assets/img/component-images/bento-03-mobile-friendly.png',
+    imageSrc: 'https://tailwindcss.com/plus-assets/img/component-images/dark-bento-03-performance.png',
     imageAlt: '',
   },
   {
@@ -75,7 +75,7 @@ export const bentoContent2 = [
     title: 'Focus on what you do best',
     value: 'focus',
     description: 'Continue serving customers while we handle the enquiries.',
-    imageSrc: 'https://tailwindcss.com/plus-assets/img/component-images/bento-03-mobile-friendly.png',
+    imageSrc: 'https://tailwindcss.com/plus-assets/img/component-images/dark-bento-03-security.png',
     imageAlt: '',
   },
   {
