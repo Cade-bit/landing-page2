@@ -7,7 +7,7 @@ export const bentoSection = {
 export const bentoContent = [
   {
     key: 'for-contractors',
-    title: 'For Contractors',
+    title: 'Stop chasing suppliers',
     value: 'forContractors',
     description: 'Save time sourcing materials, and focus on delivering your projects. One request can replace multiple calls and emails.',
     imageSrc: 'https://tailwindcss.com/plus-assets/img/component-images/bento-03-mobile-friendly.png',
@@ -31,7 +31,7 @@ export const bentoContent = [
   },
   {
     key: 'suitable-for-all-projects',
-    title: 'Suitable any project',
+    title: 'Suitable for any project',
     value: 'suitableForAllProjects',
     description: 'Our services are suitable for projects of all sizes, from small renovations to large-scale construction.',
     imageSrc: 'https://tailwindcss.com/plus-assets/img/component-images/dark-bento-03-security.png',
@@ -49,7 +49,7 @@ export const bentoContent = [
 ];
 
 export const bentoSection2 = {
-        id: 'for-merchants',
+        id: 'merchants-info',
         title: 'Helping local independant builders merchants grow',
     }
 
